@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kaiss</h1>
+<h1 align="center">Hi 👋, I'm Kaïss</h1>
 <h3 align="center">42 Lyon student</h3>
 
 - 🔭 I’m currently working on **Push-Swap ! 🖥️**
@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **karamire@student.42lyon.fr**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
